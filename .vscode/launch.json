@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MousePointer",
+            "request": "launch",
+            "mainClass": "MousePointer",
+            "projectName": "Vehicle Query_7e64d99c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Selenium2Example",
+            "request": "launch",
+            "mainClass": "Selenium2Example",
+            "projectName": "Vehicle Query_7e64d99c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - htmlUnitYest",
+            "request": "launch",
+            "mainClass": "htmlUnitYest",
+            "projectName": "Vehicle Query_7e64d99c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OpenChrome",
+            "request": "launch",
+            "mainClass": "OpenChrome",
+            "projectName": "Vehicle Query_7e64d99c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Openchrome",
+            "request": "launch",
+            "mainClass": "Openchrome",
+            "projectName": "Vehicle Query_7e64d99c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Vehicle Query_7e64d99c>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Vehicle Query_7e64d99c"
+        }
+    ]
+}
